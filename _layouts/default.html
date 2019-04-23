@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width">
+      <link href="assets/css/style.css" rel="stylesheet" />
+      <title>{%Name%}</title>
+   </head>
+   <body>
+      <a name="top"></a>
+      <header>
+         <h1>{%Name%}</h1>
+         @@IF@@ {%EXIST:title%}
+            <h2>{%title%}</h2>
+         @@END_IF@@
+      </header>
+      <div id="content">
+         {%Content%}
+      </div>
+      <footer>
+         <p>&copy; 2019 Bartek thindil Jasicki. Generated: {%NOW%} with <a href="https://yet-another-static-site-generator.github.io/">Yass</a>, color scheme: <a href="https://draculatheme.com">Dracula</a></p>
+      </footer>
+   </body>
+</html>
