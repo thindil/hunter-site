@@ -11,5 +11,28 @@
 -- For more informations how this options works, please look at the program documentation.
 -- Additionally, you can exclude this file from adding to sitemap by setting option insitemap: false.
 -- If you have enabled creating Atom feed for the site, you must specify "title" tag for this page. If you will use this file as a main source of Atom feed, then you must add "title" tag for each section which will be used as source for Atom feed entry. If you want to set author name for Atom feed, you must add "author" tag. If you want to set author email for Atom feed, you must add "authoremail" tag. If you want to add short entry summary, you must add tag "summary". Did that tags will be for whole page or for each entry depends on your Atom feed configuration.
--- title: Hunter
+-- title: Graphical Linux File Manager
 -- You can without problem delete all this comments from this file.
+Hunter is a graphical file manager for Linux, heavy inspired by [Ranger](https://ranger.github.io/).
+At this moment, Hunter is under heavy development and have only basic features
+of a file manager. To open files, the program uses default applications from
+[XDG MIME Application Specification](https://specifications.freedesktop.org/mime-apps-spec/mime-apps-spec-latest.html).
+The program is available only for Linux 64-bit.
+
+## Screenshot
+
+<p><a class="image" href="assets/images/hunter.png"><img src="assets/images/hunter.png" width="700" class="center"></a></p>
+
+## Links
+
+- Last release: [0.1](https://github.com/thindil/hunter/releases/tag/0.1)
+  (2019-04-12)
+- [GitHub](https://github.com/thindil/hunter)
+
+
+## Donate
+
+If you want to support the program development, you can donate some money by
+Liberapay or Patreon.
+
+<a href="https://liberapay.com/thindil" class="image"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> <a href="https://www.patreon.com/thindil" class="image"><img alt="Become a Patron!" src="assets/images/patreon.png" width="150"></a>
