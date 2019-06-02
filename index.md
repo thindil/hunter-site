@@ -25,8 +25,8 @@ The program is available only for Linux 64-bit.
 
 ## Links
 
-- Last release: [0.3](https://github.com/thindil/hunter/releases/tag/0.3)
-  (2019-05-15)
+- Last release: [0.4](https://github.com/thindil/hunter/releases/tag/0.4)
+  (2019-06-02)
 - [GitHub](https://github.com/thindil/hunter)
 
 
