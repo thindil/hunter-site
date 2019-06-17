@@ -13,11 +13,22 @@
 -- If you have enabled creating Atom feed for the site, you must specify "title" tag for this page. If you will use this file as a main source of Atom feed, then you must add "title" tag for each section which will be used as source for Atom feed entry. If you want to set author name for Atom feed, you must add "author" tag. If you want to set author email for Atom feed, you must add "authoremail" tag. If you want to add short entry summary, you must add tag "summary". Did that tags will be for whole page or for each entry depends on your Atom feed configuration.
 -- title: Graphical Linux File Manager
 -- You can without problem delete all this comments from this file.
-Hunter is a graphical file manager for Linux, heavy inspired by [Ranger](https://ranger.github.io/).
-At this moment, Hunter is under heavy development and have only basic features
-of a file manager. To open files, the program uses default applications from
+Hunter is a graphical file manager for Linux, inspired by [Ranger](https://ranger.github.io/).
+At this moment, Hunter is under development but have most of features of file
+managers. To open files, the program uses default applications from
 [XDG MIME Application Specification](https://specifications.freedesktop.org/mime-apps-spec/mime-apps-spec-latest.html).
 The program is available only for Linux 64-bit.
+
+## Features
+
+- Two column mode: One column always show files and directories, second column
+  is used to preview files and directories or select destination location for
+  move or copy files.
+- Everything in one window.
+- Preview of text files and images.
+- Standard file manager features: copy, delete, move files and directories,
+  change their permissions, change application associated with them.
+- Written in GTK and Ada. Should nicely integrate with selected desktop theme.
 
 ## Screenshot
 
