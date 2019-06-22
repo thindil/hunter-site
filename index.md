@@ -32,7 +32,7 @@ The program is available only for Linux 64-bit.
 
 ## Screenshot
 
-<p><a class="image" href="assets/images/hunter.png"><img src="assets/images/hunter.png" width="700" class="center"></a></p>
+<p><a class="image" href="assets/images/hunter.png"><img src="assets/images/hunter.png" width="400" class="center"></a></p>
 
 ## Links
 
