@@ -21,14 +21,16 @@ The program is available only for Linux 64-bit.
 
 ## Features
 
-- Two column mode: One column always show files and directories, second column
-  is used to preview files and directories or select destination location for
-  move or copy files.
+- Two column or one column mode: One column always show files and directories,
+  second column is used to preview files and directories or select destination
+  location for move or copy files. In one column mode, second column appear
+  only when copying or moving files or directories.
 - Everything in one window.
 - Preview of text files and images.
 - Standard file manager features: copy, delete, move files and directories,
   change their permissions, change application associated with them.
 - Written in GTK and Ada. Should nicely integrate with selected desktop theme.
+- Available in English and Polish language.
 
 ## Screenshot
 
