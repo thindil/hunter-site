@@ -26,11 +26,11 @@ The program is available only for Linux 64-bit.
   location for move or copy files. In one column mode, second column appear
   only when copying or moving files or directories.
 - Everything in one window.
-- Preview of text files and images.
+- Preview of text files (with syntax highlighting) and images.
 - Standard file manager features: copy, delete, move files and directories,
   change their permissions, change application associated with them.
 - Written in GTK and Ada. Should nicely integrate with selected desktop theme.
-- Available in English and Polish language.
+- Available in English and Polish languages.
 
 ## Screenshot
 
