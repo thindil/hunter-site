@@ -34,7 +34,7 @@ The program is available only for Linux 64-bit.
 
 ## Screenshot
 
-<p><a class="image" href="assets/images/hunter.png"><img src="assets/images/hunter.png" width="400" class="center"></a></p>
+<p align="center"><a href="assets/images/hunter.png"><img src="assets/images/hunter.png" width="300" alt="Hunter with default GTK theme and icons"></a> <a href="assets/images/hunter-dark.png"><img src="assets/images/hunter-dark.png" width="300" alt="Hunter with Gruvbox Dark theme and Papirus-Dart icons"></a></p>
 
 ## Links
 
